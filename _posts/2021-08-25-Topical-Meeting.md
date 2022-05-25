@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Conformational Changes in Pigeon Cryptochrome 4 
-excerpt: "Poster Presentation at the Topical Meeting 2020 in Kopenhagen, Denmark"
+excerpt: "Poster Presentation at the Topical Meeting 2021 in Kopenhagen, Denmark"
 tags: [presentation]
 category: presentation
 ---

@@ -4,4 +4,4 @@ title: CV
 ---
 
 
-<object data="/images/Schuhmann_CV.pdf" type='application/pdf'></object>
+<object data="/images/Schuhmann_CV.pdf" height="2000" width="1000" type='application/pdf'></object>

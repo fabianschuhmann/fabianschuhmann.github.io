@@ -1,6 +1,6 @@
 ---
 layout: page
-excerpt: "About Me..."
+excerpt: "Home"
 ---
 
 I am a third year PhD student at [quantbiolab]([quantbiolab.com](https://quantbiolab.com/) supervised by [Prof. Ilia Solov'yov](https://quantbiolab.com/group/ilia-solovyov) at the [Carl-von-Ossietzky Universität Oldenburg](https://uol.de/en). The group develops and maintains the online platform 'Scandinavian Online Kit for Nanoscale Modeling' [VIKING](https://viking-suite.com/) which provides a user-friendly approach to molecular dynamics simulations among other things.

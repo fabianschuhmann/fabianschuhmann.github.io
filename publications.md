@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-Click the publication for abstracts and links.
+Click a publication for abstracts and links.
 
 <details>
   <summary><b>The Transition of Photoreceptor Guanylate Cyclase Type 1 to the Active State</b><br>Manisha Kumari Shahu, Fabian Schuhmann, Alexander Scholten, Ilia A. Solov'yov, Karl-Wilhelm Koch<br>International Journal of Molecular Sciences, 23, 1422-0067, (2022)

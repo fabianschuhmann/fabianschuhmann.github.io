@@ -1,15 +1,17 @@
 # Site navigation links
 - title: Home
   url: /
+  
+- title: Publications
+  url: /publications/
 
 - title: Presentations
   url: /presentations/
+  
+  - title: Teaching
+  url: /teaching/
 
 - title: CV
-  url: /cv/
+  url: /images/Schuhmann_CV.pdf
 
-- title: Blog
-  url: /blog/
 
-- title: Workshops
-  url: /workshops/

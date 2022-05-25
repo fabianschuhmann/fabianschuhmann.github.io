@@ -10,5 +10,6 @@ I am a member of the interdisciplinary Research Training School [RTG1885](https:
 
 ## Current Interests and Projects:
 
-- Data Analysis with Python
+- Data Analysis
+- Molecular Dynamics Simulations
 - Methodology development for Protein analyses

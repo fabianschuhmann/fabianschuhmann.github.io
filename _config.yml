@@ -1,20 +1,20 @@
 # Site wide configuration
 
-title: Academic Website of Ted Laderas
-locale: en_US
+title: Fabian Schuhmann
+locale: de_DE
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Ted Laderas
-  avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
-  email: laderast@ohsu.edu
+  name: Fabian Schuhmann
+  avatar: Bild_Uol.jpg
+  bio: "Write an interesting text here"
+  email: fabian.schuhmann@uol.de
   # Do not include the @ symbol in your Twitter username
-  twitter: laderast
+  twitter: #laderast
   linkedin: #username
-  github: laderast
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  github: fabianschuhmann
+  orcid: 0000-0002-3768-6494 
   researchgate: #username
   mendeley: #username
   google:

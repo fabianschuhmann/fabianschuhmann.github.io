@@ -9,7 +9,7 @@ Publications
 
 <div class="posts">
   {% for post in paginator.posts %}
-    {% if post.secondary != null %}
+    {% if post.secondary == 'publication' %}
     {% else %}
       <div class="post">
         <h1 class="post-title">

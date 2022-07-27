@@ -2,8 +2,7 @@
 layout: page
 title: User-friendly peptide modeler for biophysical applications
 excerpt: "Oral Presentation at the Topical Meeting 2020 in Kopenhagen, Denmark"
-tags: {presentation]
-secondary: presentation
+tags: [presentation]
 category: presentation
 ---
 

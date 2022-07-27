@@ -2,8 +2,7 @@
 layout: post
 title: Conformational Changes in Pigeon Cryptochrome 4
 excerpt: "Oral Presentation at the ERC Quantum Birds Meeting 2022, Oxford, United Kingdom"
-tags: {presentation]
-secondary: presentation
+tags: [presentation]
 category: presentation
 ---
 

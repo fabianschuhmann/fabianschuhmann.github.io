@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Neuroforum 2021
+title: Navigation of migratory songbirds: a quantum magnetic compass sensor (Neuroforum 2021)
 tags: [publication]
 category: publications
 ---

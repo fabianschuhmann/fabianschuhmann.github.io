@@ -1,5 +1,6 @@
 ---
-layout: post-index 
+layout: presentation-post-index
 title: Presentations
-section: Presentations
+excerpt: "Recent Presentations"
 ---
+

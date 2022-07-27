@@ -1,5 +1,5 @@
 ---
-layout: name
+layout: presentation-post-index
 title: Publications
 section: Publications
 ---

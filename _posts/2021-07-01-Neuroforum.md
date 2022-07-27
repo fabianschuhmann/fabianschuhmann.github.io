@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Navigation of migratory songbirds: a quantum magnetic compass sensor
-excerpt: "Siu Ying Wong, Anders Frederiksen, Maja Hanić, Fabian Schuhmann, Gesa Grüning, P. J. Hore, Ilia A. Solov'yov<br>Neuroforum, 27, 141-150, (2021)"
+excerpt: "Siu Ying Wong, Anders Frederiksen, Maja Hanić, Fabian Schuhmann, Gesa Grüning, P. J. Hore, Ilia A. Solov'yov, Neuroforum, 27, 141-150, (2021)"
 tags: [publication]
 comments: false
 category: blog

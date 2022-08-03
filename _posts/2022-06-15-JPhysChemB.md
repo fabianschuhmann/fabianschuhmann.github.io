@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Computational Reconstruction and Analysis of Structural Models of Avian Cryptochrome 4 
-excerpt: "Maja Hanic, Fabian Schuhmann, Anders Frederiksen, Corinna Langebrake, Georg Manthey, Miriam Liedvogel, Jingjing Xu, Henrik Mouritsen, Ilia A. Solov'yov, Journal of Physical Chemistry B, (2022)"
+excerpt: "Maja Hanic, Fabian Schuhmann, Anders Frederiksen, Corinna Langebrake, Georg Manthey, Miriam Liedvogel, Jingjing Xu, Henrik Mouritsen, Ilia A. Solov'yov, Journal of Physical Chemistry B, 126,4623-4635, (2022) "
 tags: [publication]
 comments: false
 category: blog

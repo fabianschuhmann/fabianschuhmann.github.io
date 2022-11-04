@@ -1,7 +1,7 @@
 ---
 layout: post
-title: User-friendly peptide modeler for biophysical applications
-excerpt: "Oral and poster presentation at the Topical Meeting 2020 in Kopenhagen, Denmark"
+excerpt: User-friendly peptide modeler for biophysical applications
+title: "Oral and poster presentation at the Topical Meeting 2020 in Kopenhagen, Denmark"
 tags: [presentation]
 category: presentation
 ---

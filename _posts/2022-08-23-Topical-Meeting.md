@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The same, but different, but still the same: structural and dynamical differences of neutrophil elastase and cathepsin G" 
-excerpt: "Oral presentation at the Topical Meeting 2022 in Copenhagen, Denmark"
+excerpt: "The same, but different, but still the same: structural and dynamical differences of neutrophil elastase and cathepsin G" 
+title: "Oral presentation at the Topical Meeting 2022 in Copenhagen, Denmark"
 tags: [presentation]
 category: presentation
 ---

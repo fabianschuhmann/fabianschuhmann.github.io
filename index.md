@@ -12,5 +12,6 @@ I am a member of the interdisciplinary Research Training School [RTG1885](https:
 ## Current Interests and Projects:
 
 - Data Analysis
-- Molecular Dynamics Simulations
+- Molecular Dynamics Simulations (all-atom and coarse-grained)
 - Methodology development for Protein analyses
+- Non-Euclidean Distances

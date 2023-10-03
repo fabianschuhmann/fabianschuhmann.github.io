@@ -8,14 +8,14 @@ logo: logo.jpg
 owner:
   name: Fabian Schuhmann
   avatar: Bild_Uol.jpg
-  bio: "Carl-von-Ossietzky Universität Oldenburg"
-  email: fabian.schuhmann@uol.de
+  bio: "Niels Bohr Institute, University of Copenhagen"
+  email: fabian.schuhmann@nbi.ku.dk
   # Do not include the @ symbol in your Twitter username
   twitter: fabianschuhmann
   linkedin: fabian-schuhmann-10135a193
   github: fabianschuhmann
   orcid: 0000-0002-3768-6494 
-  researchgate: #username
+  researchgate: "Fabian Schuhmann"
   mendeley: #username
   google:
     plus: #username

@@ -62,6 +62,7 @@ sass:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-gist
   - jekyll-twitter-plugin
 
 kramdown:

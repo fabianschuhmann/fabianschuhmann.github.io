@@ -1,6 +1,8 @@
-source 'https://rubygems.org'
-group :jekyll_plugins do
-    gem 'github-pages'
-end
+source "https://rubygems.org"
 
+gem "jekyll", "~> 3.0"
+gem "jekyll-sitemap"
+gem "jekyll-seo-tag"
+gem "jekyll-gist"
+gem "octopress"
 gem 'jekyll-twitter-plugin'

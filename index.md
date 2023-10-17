@@ -15,3 +15,8 @@ I joined quantbiolab after finishing my Masters at the [Ruhr University Bochum](
 - Molecular Dynamics Simulations (all-atom and coarse-grained)
 - Methodology development for Protein analyses
 - Non-Euclidean Distances
+
+
+<div class='jekyll-twitter-plugin' align="center">
+    {% twitter https://twitter.com/FabianSchuhmann maxwidth=500 limit=5 %}
+</div>

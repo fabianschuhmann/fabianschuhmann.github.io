@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt: "Introducing SiMBols - Similarity Measures for Biological Systems" 
-title: "Poster presentation at the ISBUC Anual Meeting in Copenhagen, Denmark"
+title: "Poster presentation at the Linderstrøm-Lang Centre Symposium in Copenhagen, Denmark"
 tags: [presentation]
 category: presentation
 ---

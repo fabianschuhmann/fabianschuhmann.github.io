@@ -1,5 +1,5 @@
 ---
-layout: post-index
+layout: news-index
 tags: [publication]
 title: Publications
 image:

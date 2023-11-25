@@ -1,13 +1,14 @@
 # Site navigation links
+
 - title: Home
   url: /
-  
+
 - title: Publications
-  url: /publications/ 
+  url: /publications/
 
 - title: "Presentations/Posters"
   url: /presentations/
-  
+
 - title: Teaching
   url: /teaching/
 

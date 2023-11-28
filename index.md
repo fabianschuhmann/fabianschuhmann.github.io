@@ -1,6 +1,9 @@
 ---
 layout: home
 excerpt: "Home"
+image:
+  feature: banner.png
+
 ---
 
 In October 2023, I joined the group of [Weria Pezeshkian](https://nbi.ku.dk/ansatte/?pure=da/persons/733547) as a post-doc at the [Niels Bohr Institute](https://nbi.ku.dk/english/) at the [University of Copenhagen](https://www.ku.dk/english/).

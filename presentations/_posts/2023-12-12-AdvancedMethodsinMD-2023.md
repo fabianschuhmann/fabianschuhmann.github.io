@@ -1,0 +1,10 @@
+---
+layout: news
+excerpt: "Introducing SiMBols - Similarity Measures for Biological Systems" 
+title: "Contributed Talk at the Advanced Methods in MD conference in Copenhagen, Denmark"
+tags: [presentation]
+category: presentation
+---
+
+<b>Abstract</b><br>
+The recently developed python package SiMBols was presented. The program is designed to read protein simulation data, and subsequentely utilize a difference distance matrix approach, the Wasserstein distance, the Kullback-Leibler divergence, the Hausdorff distance, the (weak) Fréchet distance, dynamic time warping, and the longest common subsequence measure to quantify conformational changes in the structure simulation. While SiMBols has preprocessing utilities for protein structures, it can be applied to any set of spatio temporal data and unifies the input form for the different measures.

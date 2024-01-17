@@ -1,10 +1,12 @@
 ---
 layout: news
 excerpt: "Structural Rearrangements of pigeon cryptochrome 4 undergoing a complete redox cycle" 
-title: "Invited presentation at the PhyLife Seminar by Himanshu Khandelia"
+title: "Invited presentation at the PhyLife Seminar"
 tags: [presentation]
 category: presentation
 ---
+
+Invited to present by Himanshu Khandelia <br>
 
 <b>Abstract</b><br>
 For hundreds of years, humans were excited by birds and their ability to fly across the globe to more favorable grounds for each season. What started with observing an African spear lodged inside a stork in Europe has evolved to studying a putative magnetic-sensitive protein inside the birds' retinae, Cryptochrome 4. The protein has been shown to be magnetosensitive upon blue-light activation, and it might allow the birds to see Earth's magnetic field. But how does the protein react to its light activation on the molecular level?

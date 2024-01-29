@@ -1,7 +1,7 @@
 ---
 layout: news
 excerpt: "Coarse grained pigeon cryptochrome and its conformational changes"  
-title: "Oral presentation at the ERC Quantum Birds Meeting in Oldenburg, Germany"
+title: "Talk at the ERC Quantum Birds Meeting in Oldenburg, Germany"
 tags: [presentation]
 category: presentation
 ---

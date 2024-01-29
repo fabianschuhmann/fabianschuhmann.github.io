@@ -1,7 +1,7 @@
 ---
 layout: news
 excerpt: VIKING and its featured multiscale tools
-title: "Oral presentation at the DySon-ISACC 2021 in Santa Margherita Ligure, Italy"
+title: "Talk at the DySon-ISACC 2021 in Santa Margherita Ligure, Italy"
 tags: [presentation]
 category: presentation
 ---

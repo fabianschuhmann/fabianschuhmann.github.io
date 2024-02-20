@@ -1,7 +1,7 @@
 ---
 layout: news
 excerpt: "Structural Rearrangements of pigeon cryptochrome 4 undergoing a complete redox cycle" 
-title: "Invited presentation at the PhyLife Seminar"
+title: "Invited presentation at the PhyLife Seminar in Odense, Denmark"
 tags: [presentation]
 category: presentation
 ---

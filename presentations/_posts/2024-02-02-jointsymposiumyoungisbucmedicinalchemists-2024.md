@@ -1,6 +1,6 @@
 ---
 layout: news
-excerpt: "Introducing the automated ligand searcher (ALISE)" 
+excerpt: "Introducing the Automated ligand searcher (ALISE)" 
 title: "Talk at the Joint Symposium 2024 - Junior ISBUC and Young Medical Chemists in Copenhagen, Denmark"
 tags: [presentation]
 category: presentation

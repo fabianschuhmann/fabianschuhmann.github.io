@@ -1,7 +1,7 @@
 ---
 layout: news
-title: "Structural Rearrangements of Pigeon Cryptochrome 4 Undergoing a Complete Redox Cycle"
-excerpt: "Fabian Schuhmann, Jessica L. Ramsay, Daniel R. Kattnig, Ilia A. Solov'yov, Journal of Physical Chemistry B, 128, 3844-3855, (2024)"
+title: "Different receptor models show differences in ligand binding strength and location: a computational drug screening for the tick-borne encephalitis virus"
+excerpt: "Felicitas Finke, Jonathan Hungerland, Ilia A. Solov'yov, Fabian Schuhmann, Molecular Diversity, (2024) DOI: 10.1007/s11030-024-10850-8"
 tags: [publication]
 comments: false
 category: blog

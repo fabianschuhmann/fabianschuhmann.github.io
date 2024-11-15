@@ -1,7 +1,7 @@
 ---
 layout: news
 title: "Physics-Based Protein Networks Might Recover Effectful Mutations─a Case Study on Cathepsin G"
-excerpt: "Fabian Schuhmann, Heloisa N. Bordallo, and Weria Pezeshkian, Journal of Physical Chemistry B, XXX, XXX-XXX (2024)"
+excerpt: "Fabian Schuhmann, Heloisa N. Bordallo, and Weria Pezeshkian, Journal of Physical Chemistry B, 128, 10043-10050 (2024)"
 tags: [publication]
 comments: false
 category: blog

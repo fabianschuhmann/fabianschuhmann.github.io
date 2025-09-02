@@ -1,7 +1,7 @@
 ---
 layout: news
 title: "Integrative Molecular Dynamics Simulations Untangle Cross-Linking Data to Unveil Mitochondrial Protein Distribution"
-excerpt: "Fabian Schuhmann, Kerem Can akkaya, Dmytro Puchkov, Svea Hohensee, Martin Lehmann, Fan Liu, and Weria Pezeshkian, Angewandte Chemie, e202417804 (2024)"
+excerpt: "Fabian Schuhmann, Kerem Can akkaya, Dmytro Puchkov, Svea Hohensee, Martin Lehmann, Fan Liu, and Weria Pezeshkian, Angewandte Chemie, e202417804 (2025)"
 tags: [publication]
 comments: false
 category: blog

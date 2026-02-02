@@ -1,7 +1,7 @@
 ---
 layout: news
 excerpt: "TS2CG 2.0 -- a membrane builder" 
-title: "Talk and Poster (won a poster award) at the 3rd Annual Workshop on Advances in Molecular Modeling 2025in Aarhus, Denmark"
+title: "Talk and Poster (won a poster award) at the 3rd Annual Workshop on Advances in Molecular Modeling 2025 in Aarhus, Denmark"
 tags: [presentation]
 category: presentation
 ---
